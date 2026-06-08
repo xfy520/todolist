@@ -1,2 +1,4 @@
-ignoredBuiltDependencies:
-  - esbuild
+allowBuilds:
+  esbuild: true
+  '@parcel/watcher': true
+  '@vercel/speed-insights': true

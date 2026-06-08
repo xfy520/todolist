@@ -106,7 +106,7 @@ const Auth = () => {
     <div className="flex items-center justify-center min-h-screen bg-gray-50">
       <Card className="w-full max-w-md">
         <CardHeader className="space-y-1">
-          <CardTitle className="text-2xl text-center">蜗牛待办</CardTitle>
+          <CardTitle className="text-2xl text-center">待办</CardTitle>
           <CardDescription className="text-center">
             请登录以管理您的任务清单
           </CardDescription>

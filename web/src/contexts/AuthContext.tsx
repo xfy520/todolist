@@ -128,7 +128,7 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
       
       toast({
         title: "注册成功",
-        description: "欢迎使用蜗牛待办！",
+        description: "欢迎使用！",
       });
 
       navigate('/');
@@ -173,7 +173,7 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
 
       toast({
         title: "登录成功",
-        description: "欢迎使用蜗牛待办！",
+        description: "欢迎使用！",
       });
 
       navigate('/');
